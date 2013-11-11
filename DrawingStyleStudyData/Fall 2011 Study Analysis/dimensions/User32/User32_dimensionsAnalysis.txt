@@ -1,0 +1,412 @@
+0_EQ1_GatesOn_Iter1_Recognized4.xml
+Shape Type: NOR
+Height: 40.53267
+Width: 58.96021
+Ratio (width/height): 1.45463424936
+
+Shape Type: NOT
+Height: 29.5883
+Width: 46.36061
+Ratio (width/height): 1.56685615598
+
+Shape Type: OR
+Height: 43.48671
+Width: 50.78751
+Ratio (width/height): 1.16788577476
+
+Shape Type: XNOR
+Height: 55.59329
+Width: 79.92702
+Ratio (width/height): 1.43770983872
+
+Shape Type: NAND
+Height: 55.2542
+Width: 63.63031
+Ratio (width/height): 1.15159227715
+
+
+
+0_EQ1_GatesOn_Iter2_Recognized2.xml
+Shape Type: NOR
+Height: 52.20339
+Width: 75.15961
+Ratio (width/height): 1.4397457713
+
+Shape Type: NOT
+Height: 47.02179
+Width: 70.00299
+Ratio (width/height): 1.48873511621
+
+Shape Type: OR
+Height: 53.9951
+Width: 57.9873
+Ratio (width/height): 1.07393633867
+
+Shape Type: NAND
+Height: 63.5351
+Width: 82.2135
+Ratio (width/height): 1.29398552926
+
+Shape Type: XNOR
+Height: 61.30759
+Width: 112.4718
+Ratio (width/height): 1.83454936004
+
+
+
+1_EQ2_GatesOn_Iter1_Recognized3.xml
+Shape Type: OR
+Height: 48.3293
+Width: 56.91699
+Ratio (width/height): 1.17769117285
+
+Shape Type: NOR
+Height: 50.12106
+Width: 74.23535
+Ratio (width/height): 1.48112091005
+
+Shape Type: XNOR
+Height: 43.53511
+Width: 70.10034
+Ratio (width/height): 1.61020243201
+
+Shape Type: NOT
+Height: 44.01938
+Width: 70.78137
+Ratio (width/height): 1.60795926703
+
+Shape Type: AND
+Height: 47.60291
+Width: 55.5549
+Ratio (width/height): 1.16704840103
+
+
+
+1_EQ2_GatesOn_Iter2_Recognized2.xml
+Shape Type: OR
+Height: 33.46247
+Width: 50.39832
+Ratio (width/height): 1.50611476081
+
+Shape Type: NOR
+Height: 40.62954
+Width: 72.43539
+Ratio (width/height): 1.78282574698
+
+Shape Type: XNOR
+Height: 44.64891
+Width: 85.22955
+Ratio (width/height): 1.90888310599
+
+Shape Type: NOT
+Height: 34.96368
+Width: 61.87897
+Ratio (width/height): 1.76980712557
+
+Shape Type: AND
+Height: 36.4649
+Width: 41.83643
+Ratio (width/height): 1.14730686222
+
+
+
+2_EQ3_GatesOn_Iter1_Recognized2.xml
+Shape Type: XOR
+Height: 40.62955
+Width: 60.41956
+Ratio (width/height): 1.48708415427
+
+Shape Type: OR
+Height: 31.38014
+Width: 57.06293
+Ratio (width/height): 1.81844089924
+
+Shape Type: NOR
+Height: 39.61259
+Width: 89.36456
+Ratio (width/height): 2.25596357118
+
+Shape Type: NAND
+Height: 41.06537
+Width: 66.64639
+Ratio (width/height): 1.62293411699
+
+Shape Type: AND
+Height: 45.61743
+Width: 66.01401
+Ratio (width/height): 1.44712251435
+
+
+
+2_EQ3_GatesOn_Iter2_Recognized2.xml
+Shape Type: XOR
+Height: 35.98063
+Width: 54.67926
+Ratio (width/height): 1.51968600883
+
+Shape Type: OR
+Height: 40.09686
+Width: 66.06262
+Ratio (width/height): 1.64757589497
+
+Shape Type: XNOR
+Height: 34.18886
+Width: 79.29462
+Ratio (width/height): 2.31931161203
+
+Shape Type: NAND
+Height: 40.77481
+Width: 71.17059
+Ratio (width/height): 1.74545485313
+
+Shape Type: AND
+Height: 54.38257
+Width: 66.30585
+Ratio (width/height): 1.21924818926
+
+
+
+3_EQ4_GatesOn_Iter1_Recognized2.xml
+Shape Type: NOT
+Height: 66.48914
+Width: 89.6077
+Ratio (width/height): 1.34770430179
+
+Shape Type: XNOR
+Height: 53.1719
+Width: 86.34839
+Ratio (width/height): 1.6239477995
+
+Shape Type: NOR
+Height: 38.98311
+Width: 73.21378
+Ratio (width/height): 1.87808976759
+
+Shape Type: OR
+Height: 39.46738
+Width: 62.80328
+Ratio (width/height): 1.59127056318
+
+Shape Type: NAND
+Height: 38.20822
+Width: 62.36539
+Ratio (width/height): 1.63225059948
+
+
+
+3_EQ4_GatesOn_Iter2_Recognized2.xml
+Shape Type: NOT
+Height: 53.84989
+Width: 96.07782
+Ratio (width/height): 1.78417857492
+
+Shape Type: XNOR
+Height: 56.27121
+Width: 98.26691
+Ratio (width/height): 1.74630881405
+
+Shape Type: NOR
+Height: 57.09439
+Width: 92.96451
+Ratio (width/height): 1.6282599744
+
+Shape Type: OR
+Height: 60.58121
+Width: 106.1964
+Ratio (width/height): 1.7529593747
+
+Shape Type: NAND
+Height: 58.2567
+Width: 102.6452
+Ratio (width/height): 1.76194669454
+
+
+
+4_EQ5_GatesOn_Iter1_Recognized2.xml
+Shape Type: NOR
+Height: 50.02422
+Width: 78.85681
+Ratio (width/height): 1.57637260511
+
+Shape Type: AND
+Height: 60.96854
+Width: 92.81848
+Ratio (width/height): 1.5223995851
+
+Shape Type: NOT
+Height: 41.3559
+Width: 83.67282
+Ratio (width/height): 2.02323779678
+
+Shape Type: XOR
+Height: 56.31958
+Width: 67.3761
+Ratio (width/height): 1.19631751515
+
+Shape Type: NAND
+Height: 41.74332
+Width: 81.77557
+Ratio (width/height): 1.95900972898
+
+
+
+4_EQ5_GatesOn_Iter2_Recognized2.xml
+Shape Type: NOR
+Height: 59.22514
+Width: 91.2131
+Ratio (width/height): 1.54010779882
+
+Shape Type: AND
+Height: 63.00244
+Width: 79.00269
+Ratio (width/height): 1.25396238622
+
+Shape Type: NOT
+Height: 38.3051
+Width: 88.73221
+Ratio (width/height): 2.31645942707
+
+Shape Type: XOR
+Height: 49.9274
+Width: 69.41928
+Ratio (width/height): 1.39040446729
+
+Shape Type: NAND
+Height: 58.2567
+Width: 98.12109
+Ratio (width/height): 1.68428850244
+
+
+
+5_EQ6_GatesOn_Iter1_Recognized2.xml
+Shape Type: NOR
+Height: 45.27849
+Width: 74.77048
+Ratio (width/height): 1.65134658863
+
+Shape Type: NOT
+Height: 43.293
+Width: 83.38101
+Ratio (width/height): 1.92596978726
+
+Shape Type: XOR
+Height: 44.40676
+Width: 80.94861
+Ratio (width/height): 1.82288935288
+
+Shape Type: OR
+Height: 49.97581
+Width: 71.51111
+Ratio (width/height): 1.43091447642
+
+Shape Type: AND
+Height: 57.28821
+Width: 55.65219
+Ratio (width/height): 0.971442291529
+
+Shape Type: NAND
+Height: 40.1452
+Width: 91.2132
+Ratio (width/height): 2.2720823411
+
+
+
+5_EQ6_GatesOn_Iter2_Recognized2.xml
+Shape Type: NOR
+Height: 53.55935
+Width: 86.34851
+Ratio (width/height): 1.61220235122
+
+Shape Type: NOT
+Height: 52.30029
+Width: 87.7106
+Ratio (width/height): 1.67705762243
+
+Shape Type: XOR
+Height: 49.29787
+Width: 68.20325
+Ratio (width/height): 1.38349283651
+
+Shape Type: NAND
+Height: 57.96609
+Width: 105.6127
+Ratio (width/height): 1.82197384712
+
+Shape Type: AND
+Height: 61.79172
+Width: 88.73212
+Ratio (width/height): 1.43598721641
+
+Shape Type: OR
+Height: 46.29538
+Width: 76.32721
+Ratio (width/height): 1.64870036708
+
+
+
+6_EQ7_GatesOn_Iter1_Recognized2.xml
+Shape Type: NOT
+Height: 47.31238
+Width: 85.81342
+Ratio (width/height): 1.81376248669
+
+Shape Type: AND
+Height: 79.41892
+Width: 93.4996
+Ratio (width/height): 1.17729629161
+
+Shape Type: OR
+Height: 81.3559
+Width: 93.013
+Ratio (width/height): 1.14328524422
+
+Shape Type: NOT
+Height: 41.01691
+Width: 68.20309
+Ratio (width/height): 1.66280419466
+
+Shape Type: XOR
+Height: 44.45518
+Width: 69.95441
+Ratio (width/height): 1.57359412334
+
+Shape Type: XNOR
+Height: 63.97089
+Width: 109.1639
+Ratio (width/height): 1.70646211113
+
+
+
+6_EQ7_GatesOn_Iter2_Recognized2.xml
+Shape Type: NOT
+Height: 50.46004
+Width: 78.75946
+Ratio (width/height): 1.56082833069
+
+Shape Type: AND
+Height: 70.70218
+Width: 82.0675
+Ratio (width/height): 1.16074921594
+
+Shape Type: OR
+Height: 57.57869
+Width: 89.70508
+Ratio (width/height): 1.55795625083
+
+Shape Type: NOT
+Height: 47.99031
+Width: 77.00824
+Ratio (width/height): 1.60466227453
+
+Shape Type: XOR
+Height: 51.81596
+Width: 62.26813
+Ratio (width/height): 1.20171719293
+
+Shape Type: XNOR
+Height: 47.74817
+Width: 91.16449
+Ratio (width/height): 1.90927715135
+
+
+

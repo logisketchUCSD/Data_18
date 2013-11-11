@@ -1,0 +1,7 @@
+1: d = a OR (b XOR c), e = [a OR (b XOR c)] AND (b XOR c)
+2: e = [a AND (b OR c)] NAND [NOT (b OR c)]
+3: d = a XNOR (NOT b), e = [a NOR (NOT b)] NAND (b OR c)
+4: d = (a XOR b) XOR c, e = (a AND b) OR [c AND (a XOR b)]
+5: d = a OR [(NOT a) AND b], e = {a OR [(NOT a) AND b]} XOR (b NAND c)
+6: d = (b OR c), e = (a XNOR b) AND (NOT c)
+7: d = (a NOR b) NAND [(NOT b) OR c], e = (b XNOR c)
